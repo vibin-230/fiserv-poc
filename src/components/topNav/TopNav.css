@@ -1,0 +1,33 @@
+@import url("../../index.css");
+
+.TopNav_wrapper {
+  width: 100vw;
+  height: 42px;
+  z-index: 100;
+  box-shadow: 0 0 3px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: var(--primary-color);
+}
+
+nav > a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  flex: 1 1 25%;
+  color: var(--on-primary);
+}
+.active {
+  color: var(--primary-color);
+  text-decoration: none;
+  background: var(--on-primary);
+  border-bottom: 0px;
+  font-weight: bold;
+}

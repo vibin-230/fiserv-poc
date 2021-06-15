@@ -1,0 +1,35 @@
+.about_wrapper {
+  background: var(--background-primary);
+  padding: 60px 40px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+.about_wrapper > div {
+  margin-right: 20px;
+}
+.about_title {
+  width: fit-content;
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--on-primary);
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.about_title::after {
+  content: "";
+  z-index: 10;
+  width: 25%;
+  background: var(--primary-color);
+  height: 3px;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.about_content {
+  display: flex;
+  flex-direction: column;
+  color: var(--on-primary);
+}

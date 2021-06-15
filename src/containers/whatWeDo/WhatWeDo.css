@@ -1,0 +1,38 @@
+.whatWeDo_wrapper {
+  display: flex;
+  width: 900px;
+  background: var(--on-primary);
+  justify-content: center;
+  padding: 20px;
+}
+
+.whatWeDo_wrapper > div {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  flex: 1 1 50%;
+}
+.whatWeDo_wrapper > div > span {
+  margin: 10px 10px 10px 0;
+}
+.whatWeDo_upcomingevents_title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.whatWeDo_upcomingevents_content {
+  color: var(--on-background-primary);
+}
+.whatWeDo_content {
+  display: flex;
+}
+.event_img {
+  height: 125px;
+  margin-right: 20px;
+}
+.whatWeDo_title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.whatWeDo_icon {
+  margin-right: 10px;
+}
