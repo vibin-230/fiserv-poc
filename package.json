@@ -1,7 +1,7 @@
 {
   "name": "charity-app",
   "version": "0.1.0",
-  "homepage": "https://vibin-230.github.io/fiserv-poc",
+  "homepage": "https://vibin-230.github.io/fiserv-poc/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
@@ -26,6 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

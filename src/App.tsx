@@ -7,7 +7,7 @@ import { DonatePage } from "./pages/donatePage/DonatePage";
 
 function App() {
   return (
-    <Router>
+    <Router basename={"/fiserv-poc"}>
       <div className="App">
         <Switch>
           <Route exact path="/">
