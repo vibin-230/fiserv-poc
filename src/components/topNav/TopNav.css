@@ -4,15 +4,17 @@
   width: 100vw;
   height: 42px;
   z-index: 100;
-  box-shadow: 0 0 3px 5px rgba(0, 0, 0, 0.1);
   display: flex;
   position: fixed;
   top: 0;
   left: 0;
+  padding-right: 32px;
   box-sizing: border-box;
-  justify-content: space-evenly;
+  justify-content: flex-end;
   align-items: center;
-  background-color: var(--primary-color);
+  font-weight: 500;
+
+  background-color: var(--on-primary);
 }
 
 nav > a {
@@ -20,14 +22,15 @@ nav > a {
   display: flex;
   justify-content: center;
   height: 100%;
+  padding: 0 20px;
   align-items: center;
-  flex: 1 1 25%;
-  color: var(--on-primary);
+  cursor: pointer;
+  color: var(--primary-color);
 }
-.active {
+/* .active {
   color: var(--primary-color);
   text-decoration: none;
   background: var(--on-primary);
   border-bottom: 0px;
   font-weight: bold;
-}
+} */

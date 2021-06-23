@@ -1,0 +1,39 @@
+.donate_wrapper {
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  /* min-height: 100vh; */
+  padding: 24px;
+  align-items: center;
+}
+.donate_content {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  /* flex: 1 1 33%; */
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.donate_content > a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px rgb(0 0 0 / 20%);
+  border-radius: 10px;
+  padding: 10px;
+}
+.donate_title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+.donate_content > div {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}

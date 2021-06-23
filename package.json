@@ -4,6 +4,7 @@
   "homepage": "https://vibin-230.github.io/fiserv-poc/",
   "private": true,
   "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.19",
     "@reduxjs/toolkit": "^1.6.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

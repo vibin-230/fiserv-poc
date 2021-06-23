@@ -7,11 +7,25 @@ import { ReactComponent as FacebookIcon } from "../../assets/FacebookIcon.svg";
 
 import { ReactComponent as TwitterIcon } from "../../assets/TwitterIcon.svg";
 import { ReactComponent as LinkedinIcon } from "../../assets/LinkedinIcon.svg";
+import ContactImg from "../../assets/contactImg.webp";
 
 export const Contact = () => {
   return (
-    <div className="section_wrapper">
-      <div className="contact_wrapper">
+    <div className="contact_section_wrapper">
+      <div className="contact_top">
+        <img src={ContactImg} />
+        <div className="contact_top_text">
+          <div className="contact_top_title">Lorem ipsum dolor</div>
+          <div>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
+            pellentesque habitant morbi tristique senectus et. Est sit amet
+            facilisis magna. Enim eu turpis egestas pretium aenean pharetra
+            magna ac placerat.
+          </div>
+        </div>
+      </div>
+      <footer className="footer_wrapper">
         <div>
           <div className="contact_title">Charity</div>
           <span className="contact_content">
@@ -56,7 +70,7 @@ export const Contact = () => {
             </span>
           </span>
         </div>
-      </div>
+      </footer>
     </div>
   );
 };

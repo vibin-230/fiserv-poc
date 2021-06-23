@@ -1,4 +1,8 @@
 {
+  "typeRoots": [
+    "../node_modules/@types",
+    "./src/@types"
+  ],
   "compilerOptions": {
     "target": "es5",
     "lib": [
@@ -21,6 +25,5 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-  ]
+    "src", "src/@types" ],
 }
