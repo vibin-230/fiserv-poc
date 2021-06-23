@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fiserv-poc/static/css/main.33409409.chunk.css",
-    "main.js": "/fiserv-poc/static/js/main.9839717c.chunk.js",
-    "main.js.map": "/fiserv-poc/static/js/main.9839717c.chunk.js.map",
+    "main.css": "/fiserv-poc/static/css/main.bae837ef.chunk.css",
+    "main.js": "/fiserv-poc/static/js/main.6d0a8f65.chunk.js",
+    "main.js.map": "/fiserv-poc/static/js/main.6d0a8f65.chunk.js.map",
     "runtime-main.js": "/fiserv-poc/static/js/runtime-main.02d0dc6b.js",
     "runtime-main.js.map": "/fiserv-poc/static/js/runtime-main.02d0dc6b.js.map",
-    "static/js/2.8538ea3a.chunk.js": "/fiserv-poc/static/js/2.8538ea3a.chunk.js",
-    "static/js/2.8538ea3a.chunk.js.map": "/fiserv-poc/static/js/2.8538ea3a.chunk.js.map",
+    "static/js/2.df5bc37a.chunk.js": "/fiserv-poc/static/js/2.df5bc37a.chunk.js",
+    "static/js/2.df5bc37a.chunk.js.map": "/fiserv-poc/static/js/2.df5bc37a.chunk.js.map",
     "index.html": "/fiserv-poc/index.html",
-    "static/css/main.33409409.chunk.css.map": "/fiserv-poc/static/css/main.33409409.chunk.css.map",
-    "static/js/2.8538ea3a.chunk.js.LICENSE.txt": "/fiserv-poc/static/js/2.8538ea3a.chunk.js.LICENSE.txt",
+    "static/css/main.bae837ef.chunk.css.map": "/fiserv-poc/static/css/main.bae837ef.chunk.css.map",
+    "static/js/2.df5bc37a.chunk.js.LICENSE.txt": "/fiserv-poc/static/js/2.df5bc37a.chunk.js.LICENSE.txt",
     "static/media/FacebookIcon.c1a75561.svg": "/fiserv-poc/static/media/FacebookIcon.c1a75561.svg",
     "static/media/LinkedinIcon.1cc9d09b.svg": "/fiserv-poc/static/media/LinkedinIcon.1cc9d09b.svg",
     "static/media/LocationIcon.b9c8af1b.svg": "/fiserv-poc/static/media/LocationIcon.b9c8af1b.svg",
@@ -17,13 +17,15 @@
     "static/media/MobileIcon.83f12dda.svg": "/fiserv-poc/static/media/MobileIcon.83f12dda.svg",
     "static/media/TwitterIcon.8ab93d01.svg": "/fiserv-poc/static/media/TwitterIcon.8ab93d01.svg",
     "static/media/aboutImg.2ee087eb.webp": "/fiserv-poc/static/media/aboutImg.2ee087eb.webp",
+    "static/media/affiliates.158468ef.svg": "/fiserv-poc/static/media/affiliates.158468ef.svg",
+    "static/media/contactImg.ca6fbe86.webp": "/fiserv-poc/static/media/contactImg.ca6fbe86.webp",
     "static/media/homeImg.f2645417.webp": "/fiserv-poc/static/media/homeImg.f2645417.webp",
     "static/media/upcmingevent.d9be34c1.webp": "/fiserv-poc/static/media/upcmingevent.d9be34c1.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.02d0dc6b.js",
-    "static/js/2.8538ea3a.chunk.js",
-    "static/css/main.33409409.chunk.css",
-    "static/js/main.9839717c.chunk.js"
+    "static/js/2.df5bc37a.chunk.js",
+    "static/css/main.bae837ef.chunk.css",
+    "static/js/main.6d0a8f65.chunk.js"
   ]
 }
