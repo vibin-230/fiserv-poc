@@ -15,13 +15,13 @@ export const Contact = () => {
       <div className="contact_top">
         <img src={ContactImg} />
         <div className="contact_top_text">
-          <div className="contact_top_title">Lorem ipsum dolor</div>
+          <div className="contact_top_title">For better world</div>
           <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
-            pellentesque habitant morbi tristique senectus et. Est sit amet
-            facilisis magna. Enim eu turpis egestas pretium aenean pharetra
-            magna ac placerat.
+            With over $9 billion raised so far for causes large and small,
+            GoFundMe is one of the most well-known and trusted personal
+            fundraising websites in the crowdfunding arena. Through their
+            platform, people can raise money for personal, business, and
+            charitable causes.
           </div>
         </div>
       </div>
@@ -29,11 +29,10 @@ export const Contact = () => {
         <div>
           <div className="contact_title">Charity</div>
           <span className="contact_content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
-            pellentesque habitant morbi tristique senectus et. Est sit amet
-            facilisis magna. Enim eu turpis egestas pretium aenean pharetra
-            magna ac placerat.
+            GlobalGiving connects nonprofits, donors, and companies in nearly
+            every country in the world. We help fellow nonprofits access the
+            funding, tools, training, and support they need to serve their
+            communities.
           </span>
           <span>
             <span className="contact_icon">

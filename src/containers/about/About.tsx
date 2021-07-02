@@ -8,13 +8,9 @@ export const About = () => {
         <div>
           <div className="about_title">Welcome to our charity</div>
           <span className="about_content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
-            pellentesque habitant morbi tristique senectus et. Est sit amet
-            facilisis magna. Enim eu turpis egestas pretium aenean pharetra
-            magna ac placerat.Elit pellentesque habitant morbi tristique
-            senectus et. Est sit amet facilisis magna. Enim eu turpis egestas
-            pretium aenean pharetra magna ac placerat.
+            Our impact is about more than moving money to where it’s needed
+            most; it’s also about helping nonprofits access information and
+            ideas that will help them listen, learn, and grow.
           </span>
           <a href="#about">Read more...</a>
         </div>

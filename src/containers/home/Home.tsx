@@ -11,13 +11,10 @@ export const Home = () => {
         <div className="home_subTitle">for a better world</div>
         <div className="home_content">
           {" "}
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit
-          pellentesque habitant morbi tristique senectus et. Est sit amet
-          facilisis magna. Enim eu turpis egestas pretium aenean pharetra magna
-          ac placerat.Elit pellentesque habitant morbi tristique senectus et.
-          Est sit amet facilisis magna. Enim eu turpis egestas pretium aenean
-          pharetra magna ac placerat.
+          GlobalGiving connects nonprofits, donors, and companies in nearly
+          every country in the world. We help fellow nonprofits access the
+          funding, tools, training, and support they need to serve their
+          communities.
         </div>
         <button>Read More</button>
       </div>
